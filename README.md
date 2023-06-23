@@ -1,2 +1,4 @@
-# About
-About Me
+# This is Karthik Subbiramani
+# Javascript
+# C++
+# CSS
